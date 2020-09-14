@@ -7,7 +7,7 @@ Markdown is a way to style text on the web and control how your document is disp
 ### Things You Can Do With Markdown
 - Edit Text
 - Create Lists
-- Add Images 
+- Add Images or Videos or GIFs 
 - Add Headers and Quotes
 - Style Code
 - And More! You can reference other people and add things like task lists.
