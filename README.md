@@ -8,6 +8,7 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 ### Table of Contents: Reading Assignments 
 - [Class 1: Growth Mindset](growthmindset.md)
 - [Class 1: Learning Markdown](learningmarkdown.md)
+- [Class 1: The Coder's Computer](coderscomputer.md)
 
 
 
