@@ -12,6 +12,6 @@ A "growth mindset" is a mindset fostered by those who believe that there is alwa
 - Set Goals. Break down tasks into smaller, easier to digest bits.
 - Be kind with yourself. Be patient with yourself when you don't understand something.
 - Reach out for support. Asking for help is fundemental to learning and does not mean you are dumb or incompitent, it is how you learn!
-[You Can Do It](https://media1.tenor.com/images/692ae07985fbef659c10cd6ff7625d9a/tenor.gif)
+- [You Can Do It](https://media1.tenor.com/images/692ae07985fbef659c10cd6ff7625d9a/tenor.gif)
 
 
