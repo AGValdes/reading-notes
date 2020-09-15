@@ -1,5 +1,5 @@
 # Ameilia's Page 
-Reading notes for Code 102
+## Reading notes for Code 102
 
 ## About Me
 My name is Ameilia, I am 24 years old, and I am new to software developement! I am very excited to start my coding journey, and you can follow it here:
