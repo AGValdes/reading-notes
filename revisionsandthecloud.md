@@ -20,11 +20,11 @@
 
 ## Importing
 - switch to target project's directory using **cd** command
-- use git init command 
+- use **git init** command 
 - to start tracking these repository files, preform an intial commit.
 
 ## Cloning
--use the git clone command to clone existing repositories into the local device. Cloning copies all versions of all files of a project.
+-use the **git clone** command to clone existing repositories into the local device. Cloning copies all versions of all files of a project.
 
 ## Anatomy of a Local Repository
 - **Working Directory:** Where the actual files live.
