@@ -8,3 +8,7 @@ A text editor can be a software that you download or use through the web that do
 - **Extensions:** These are like plug-ins for your text editor. There are various different kinds that have different functions that you may need while coding a project.
 ### Built-in Software Vs. Third Party Softwares
 The plain text editor that comes built in to your computer is not always ideal for coding because it doesn't have any of the features listed above. It makes it more difficult to code because you have to be extra vigilant in completeing syntax and finding your own errors. There are many third party softwares available that feature a a combination of all of these features, and there isn't neccisarily a "best" one. You just have to find one that works best and most efficiently for you through trial and error.
+
+# Using the Terminal
+The terminal allows you to navigate your computer without using the GUI or Graphic User Interface. The user inputs text commands and recieves text outputs from the system. Some outputs don't display any text unless there is an error. Here are some [shortcuts](terminalshortcuts.md) and a [command cheat sheet](terminalcommandcs.md) you can use to navigate the terminal.
+
