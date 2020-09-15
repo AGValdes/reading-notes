@@ -7,9 +7,10 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 
 ### Reading Assignments 
 - [Class 1: Growth Mindset](growthmindset.md)
-- [Class 1: Learning Markdown](learningmarkdown.md)
-- [Class 1: The Coder's Computer](coderscomputer.md)
-- [Class 2: Revisions and the Cloud](revisionsandthecloud.md)
+- [Class 2: Learning Markdown](learningmarkdown.md)
+- [Class 2: The Coder's Computer](coderscomputer.md)
+- [Class 3: Revisions and the Cloud](revisionsandthecloud.md)
+- [Class 4: Structure a Web Page with HTML](htmlstructurewebpage.md)
 
 ### Useful Links
 - [Terminal Shortcuts](terminalshortcuts.md)
