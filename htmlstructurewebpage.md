@@ -17,3 +17,12 @@
 - **Heading Groups:** `<hgroup></hgroup>`
 - **Figures:** `<figure></figure>`
 - **Sectioning Elements(Divs):** `<div></div>`
+
+# Chapter 8: Extra Markup
+- Doctypes tell the browser which version of HTML you are using. Example: `<!DOCTYPE html>`
+- Add comments to code with `<!--...-->`
+- To identify elements for styling later use id and class atributes. Example: `<p class="greenbox"></p>`
+- `<div>` and `<span>` elements let you group block level and inline elements.
+- `<iframes>` cut windows into the webpage that you can see other webpages in. Example: a google maps frame on a page.
+- `<meta>` tag supplies info like about the author and other info about your webpage without being visible on the main page.
+- Use **escape characters** to make special characters show up and not be confused as code. Example: copyright symbol is `&copy`
