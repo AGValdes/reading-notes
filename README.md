@@ -10,6 +10,10 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 - [Class 1: Learning Markdown](learningmarkdown.md)
 - [Class 1: The Coder's Computer](coderscomputer.md)
 
+### Useful Links
+- [Terminal Shortcuts](terminalshortcuts.md)
+- [Terminal Command Cheat Sheet](terminalcommandcs.md)
+
 
 
 
