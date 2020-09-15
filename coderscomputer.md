@@ -6,3 +6,5 @@ A text editor can be a software that you download or use through the web that do
 - **Syntax Highlighting:** This colors the text of different bits of syntax so you can differentiate different elements easier. For example attributes having a different color than elements.
 - **Themes:** These are just different styles of background colors vs. text colors that you can customize to make your coding less fatiguing on the eyes.
 - **Extensions:** These are like plug-ins for your text editor. There are various different kinds that have different functions that you may need while coding a project.
+### Built-in Software Vs. Third Party Softwares
+The plain text editor that comes built in to your computer is not always ideal for coding because it doesn't have any of the features listed above. It makes it more difficult to code because you have to be extra vigilant in completeing syntax and finding your own errors. There are many third party softwares available that feature a a combination of all of these features, and there isn't neccisarily a "best" one. You just have to find one that works best and most efficiently for you through trial and error.
