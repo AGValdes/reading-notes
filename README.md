@@ -1,4 +1,4 @@
-# Ameilia's Reading Notes for Code 102
+# Ameilia's Page
 
 
 ## About Me
