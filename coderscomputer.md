@@ -12,3 +12,5 @@ The plain text editor that comes built in to your computer is not always ideal f
 # Using the Terminal
 The terminal allows you to navigate your computer without using the GUI or Graphic User Interface. The user inputs text commands and recieves text outputs from the system. Some outputs don't display any text unless there is an error. Here are some [shortcuts](terminalshortcuts.md) and a [command cheat sheet](terminalcommandcs.md) you can use to navigate the terminal.
 
+[<-- Back](README.md)
+
