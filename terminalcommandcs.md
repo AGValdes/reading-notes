@@ -7,3 +7,5 @@
 - **file:** obtain information on type of file
 - **ls -a:** show a list including hidden files
 - Use "" quotes or escape character / to allow spaces in file names
+
+[<-- Back](README.md)
