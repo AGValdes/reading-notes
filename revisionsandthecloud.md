@@ -8,7 +8,7 @@
 - makes collaboration easier
 - tracks changes applied
 
-### Stages of Tracking
+## Stages of Tracking
 - **Committed:** Data is securely stored in a local database
 - **Modified:** File has been changed but not committed to the database
 - **Staged:** Flagged a file’s changed version to be committed in the next snapshot
@@ -18,20 +18,20 @@
  
 **GitHub** uses Git under the hood and you can import and export repositories from GitHub to your local device and vise versa.
 
-### Importing
+## Importing
 - switch to target project's directory using **cd** command
 - use git init command 
 - to start tracking these repository files, preform an intial commit.
 
-### Cloning
+## Cloning
 -use the git clone command to clone existing repositories into the local device. Cloning copies all versions of all files of a project.
 
-### Anatomy of a Local Repository
+## Anatomy of a Local Repository
 - **Working Directory:** Where the actual files live.
 - **Index:** Area used for staging.
 - **Head:** The most recent commit.
 
-### Add, Commit, Push
+## Add, Commit, Push
 - **Track (Add) one file:** git add filename
 -**Track (Add) all files:** git add *
 - use git status in between steps to check status of file
