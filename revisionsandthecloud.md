@@ -7,6 +7,7 @@
 - keeps all project files on one repository
 - makes collaboration easier
 - tracks changes applied
+
 ### Stages of Tracking
 - **Committed:** Data is securely stored in a local database
 - **Modified:** File has been changed but not committed to the database
