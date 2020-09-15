@@ -38,4 +38,6 @@
 - **Commit all files:** git commit -a
 - **Push to remote Repo:** git push origin master
 - you can stash changes without commiting them by using git stash command.
+
+[<-- Back](README.md)
  
