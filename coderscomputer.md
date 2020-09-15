@@ -12,11 +12,15 @@ The plain text editor that comes built in to your computer is not always ideal f
 # Using the Terminal
 The terminal allows you to navigate your computer without using the GUI or Graphic User Interface. The user inputs text commands and recieves text outputs from the system. Here are some [shortcuts](terminalshortcuts.md) and a [command cheat sheet](terminalcommandcs.md) you can use to navigate the terminal. 
 -  Some outputs don't display any text unless there is an error.
-- Everything is a **file**! Including your keyboard (it's just a file only your system can read!)
-- A **path** is a means to get to a certain file or directory. 
 - Using the Terminal is **case sensitive**!
 - Commands and arguements are seperated by spaces, you must use an escape character when there are spaces in a file or directory name. 
 - The first command arguement in a line is called an **option** which modifies the behavior of the command, they typically start with a dash (-).
+- Everything is a **file**! Including your keyboard (it's just a file only your system can read!)
+- A **path** is a means to get to a certain file or directory. 
+- **Absolute Path:** specifies a location in relation to the root directory.
+- **Relative Path:** specifies a location in relation to the directory we are currently in.
+
+
 
 
 [<-- Back](README.md)
