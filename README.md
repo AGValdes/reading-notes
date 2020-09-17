@@ -14,6 +14,7 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 - [Class 5: Intro to CSS and Color](cssreading.md)
 - [Class 6a: Dynamic Webpages with JavaScript](jsreading.md)
 - [Class 6b: Computer Architecture and Logic](videonotes.md)
+- [Class 7: Programming with JavaScript](morejsreading.md)
 
 ### Useful Links
 - [Terminal Shortcuts](terminalshortcuts.md)
