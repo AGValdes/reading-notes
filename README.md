@@ -15,7 +15,7 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 - [Class 6a: Dynamic Webpages with JavaScript](jsreading.md)
 - [Class 6b: Computer Architecture and Logic](videonotes.md)
 - [Class 7: Programming with JavaScript](morejsreading.md)
-- [Class 8: Operators and Loops](morejsreading.md)
+- [Class 8: Operators and Loops](operatorsandloops.md)
 
 ### Useful Links
 - [Terminal Shortcuts](terminalshortcuts.md)
