@@ -11,7 +11,7 @@ Information stored in **RAM** is accessed by the **CPU** or central processing u
 - **Operating Systems:** Software stored in a computer that instructs the computer how to process information between software and hardware and download software into memory. 
 
 ## Output
-The processed information is not output to a hardware device and back to the user. 
+The processed information is output to a hardware device and back to the user. 
 
 # But Like, How Though?
 Input info is tranlated to binary, which results in the firing of electrcity in wires in complex circuit boards in the CPU, happening at billions of fires a second. The invention of smaller and faster CPU circuit boards allows modern computers to not only just calculate numbers like models of the past, but to do increasingly complex calculations and functions. 
