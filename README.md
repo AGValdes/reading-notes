@@ -12,6 +12,7 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 - [Class 3: Revisions and the Cloud](revisionsandthecloud.md)
 - [Class 4: Structure a Web Page with HTML](htmlstructurewebpage.md)
 - [Class 5: Intro to CSS and Color](cssreading.md)
+- [Class 6a: Dynamic Webpages with JavaScript](jsreading.md)
 
 ### Useful Links
 - [Terminal Shortcuts](terminalshortcuts.md)
