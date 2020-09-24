@@ -6,8 +6,8 @@ My name is Ameilia, I am 24 years old, and I am new to software developement! I 
 [My Github Portfolio](https://github.com/AGValdes)
 
 ### Table of Contents
-- [102 Reading Notes:](102notes.md)
-- [201 Reading Notes:](201notes.md)
+- [Code 102 Reading Notes](code102notes.md)
+- [Code 201 Reading Notes](code201notes.md)
 
 ### Useful Links
 - [Terminal Shortcuts](terminalshortcuts.md)
