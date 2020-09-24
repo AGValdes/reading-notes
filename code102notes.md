@@ -1,6 +1,6 @@
-# Reading Note's from 102
+# Code 102 Reading Notes
 
-## Here are some notes from the reading assignments in the 102 class:
+## Here are some notes from the reading assignments in Code 102:
 
 ### Table of Contents: 
 - [Class 1: Growth Mindset](growthmindset.md)
