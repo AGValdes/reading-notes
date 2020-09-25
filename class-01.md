@@ -50,6 +50,10 @@
 - **Method:** document.**write('Good Afternoon!)**;
 - **Parameters:** document.write(**'Good Afternoon!'**);
 
+[Back to Top](#)
+[<-- Back to Code 201](code201notes.md)
+[<-- Back to Home](README.md)
+
 
 
 

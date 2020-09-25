@@ -18,5 +18,6 @@
 - [Terminal Shortcuts](terminalshortcuts.md)
 - [Terminal Command Cheat Sheet](terminalcommandcs.md)
 
+[Back to Top](#)
 [<-- Back](README.md)
 
