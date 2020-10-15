@@ -64,3 +64,5 @@ Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, i
 Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 - `measureText()`
 Returns a TextMetrics object containing the width, in pixels, that the specified text will be when drawn in the current text style.
+
+[Back to Top](#) [Back to Code 201](code201notes.md) [<-- Back](README.md)
