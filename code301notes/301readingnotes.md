@@ -4,6 +4,6 @@
 ![Study Time Gif](https://media0.giphy.com/media/3otPom9hhC5MHfBmIo/giphy.gif)
 
 ### Table of Contents: 
-
+- [Class 01: SMACCSS and Responsive Web Design](reading01.md)
 [Back to Top](#)
 [<-- Back](README.md)
