@@ -6,5 +6,6 @@
 ### Table of Contents: 
 - [Class 01: SMACCSS and Responsive Web Design](reading01.md)
 - [Class 02: jQuery, Events, and the DOM](reading02.md)
+- [Class 03: Mustache and Flexbox](reading03.md)
 [Back to Top](#)
 [<-- Back](README.md)
