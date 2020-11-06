@@ -9,10 +9,10 @@
 - often referred to as **logic-less** because there are no if statements, else clauses, or for loops. Instead, there are only **tags**.
 - **EX:** `Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” }); // returns: Hello, Sherlynn`
 
-![MustacheChart](https://miro.medium.com/max/1050/1*LbqYj87xlazySm6wE0Q2lA.png)
+![Mustache Chart](https://miro.medium.com/max/1050/1*LbqYj87xlazySm6wE0Q2lA.png)
 
 ## FlexBox
-[FlexBox-Guide](https://css-tricks.com/product/css-flexbox-poster/)
+[FlexBox Guide](https://css-tricks.com/product/css-flexbox-poster/)
 - set `display:` to flex
 ### Examples of parent properties:
 - **flex-direction:**
@@ -36,3 +36,4 @@
 ### Examples of Child Properties:
 - **align-self:** This allows the default alignment (or the one specified by align-items) to be overridden for individual flex items.
 
+[<-- Back](301readingnotes.md) [Back to Home](README.md)
