@@ -10,5 +10,6 @@
 - [Class 05: Heroku Tutorial](reading05.md)
 - [Class 06: Node.js](reading06.md)
 - [Class 07: REST](reading07.md)
+- [Class 08: Refactoring](reading08.md)
 [Back to Top](#)
 [<-- Back](README.md)
