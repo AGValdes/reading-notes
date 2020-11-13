@@ -11,5 +11,6 @@
 - [Class 06: Node.js](reading06.md)
 - [Class 07: REST](reading07.md)
 - [Class 08: Refactoring](reading08.md)
+- [Class 10:The Call Stack and Debugging](reading10.md)
 [Back to Top](#)
 [<-- Back](README.md)
