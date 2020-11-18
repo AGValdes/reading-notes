@@ -14,5 +14,6 @@
 - [Class 10:The Call Stack and Debugging](reading10.md)
 - [Class 11: EJS](reading11.md)
 - [Class 12: Partials](reading12.md)
+- [Class 13: Sending Form Data](reading13.md)
 [Back to Top](#)
 [<-- Back](README.md)
