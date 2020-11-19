@@ -15,5 +15,7 @@
 - [Class 11: EJS](reading11.md)
 - [Class 12: Partials](reading12.md)
 - [Class 13: Sending Form Data](reading13.md)
+- [Class 14a: Database Normalization](reading14a.md)
+- [Class 14b: ](reading14b.md)
 [Back to Top](#)
 [<-- Back](README.md)
