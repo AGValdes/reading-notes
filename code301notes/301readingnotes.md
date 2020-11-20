@@ -17,5 +17,6 @@
 - [Class 13: Sending Form Data](reading13.md)
 - [Class 14a: Database Normalization](reading14a.md)
 - [Class 14b: ](reading14b.md)
+- [Class 15: Diversity and Inclusion](reading15.md)
 [Back to Top](#)
 [<-- Back](README.md)
